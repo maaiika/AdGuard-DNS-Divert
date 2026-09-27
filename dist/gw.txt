@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-09-26 10:07:48
+# 自动生成于 2026-09-27 10:00:00
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32954 个域名，逐条规则）
+# 国外域名规则（共 32955 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -5589,6 +5589,7 @@ https://1.12.12.12/dns-query
 [/c-scaipe.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/c-span.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/c-spanvideo.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/c.go-mpulse.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/c.mi.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/c0930.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/c100tibet.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
