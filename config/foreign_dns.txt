@@ -1,3 +1,12 @@
 tls://1.1.1.1:853
-tls://8e918b.dns.nextdns.io
-quic://8e918b.dns.nextdns.io
+https://hk2.ooroot.com/dns-query
+https://kr1.ooroot.com/dns-query
+https://sg-dns1.bancuh.com/dns-query
+https://sg2.ooroot.com/dns-query
+https://dot-sg.blahdns.com/dns-query
+https://dns.digitale-gesellschaft.ch/dns-query
+https://anycast.uncensoreddns.org/dns-query
+https://doh.applied-privacy.net/query
+https://ns1.fdn.fr/dns-query
+https://doh-01.spectrum.com/dns-query
+https://dns.aa.net.uk/dns-query
