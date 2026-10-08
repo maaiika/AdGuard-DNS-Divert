@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-10-07 12:29:31
+# 自动生成于 2026-10-08 12:40:30
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -73,7 +73,7 @@ https://dns.aa.net.uk/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 111026 个域名，逐条规则）
+# 国内域名规则（共 111065 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]127.0.0.1:153
@@ -3794,6 +3794,7 @@ https://dns.aa.net.uk/dns-query
 [/3464.com/]127.0.0.1:153
 [/346888.com/]127.0.0.1:153
 [/346g4247o9.world/]127.0.0.1:153
+[/346tudx.com/]127.0.0.1:153
 [/348b60ac51011.beer/]127.0.0.1:153
 [/34a14155f1016.beer/]127.0.0.1:153
 [/34c5fe453528e605.com/]127.0.0.1:153
@@ -8804,6 +8805,7 @@ https://dns.aa.net.uk/dns-query
 [/91meitu.com/]127.0.0.1:153
 [/91mh.me/]127.0.0.1:153
 [/91miaoshou.com/]127.0.0.1:153
+[/91mtp.com/]127.0.0.1:153
 [/91muzhi.com/]127.0.0.1:153
 [/91ninthpalace.com/]127.0.0.1:153
 [/91nzh.com/]127.0.0.1:153
@@ -10155,6 +10157,7 @@ https://dns.aa.net.uk/dns-query
 [/adlainortye.com/]127.0.0.1:153
 [/adlefee.com/]127.0.0.1:153
 [/adlefei.com/]127.0.0.1:153
+[/adlingsi.com/]127.0.0.1:153
 [/adlo.net/]127.0.0.1:153
 [/adluckin.com/]127.0.0.1:153
 [/adm88888.com/]127.0.0.1:153
@@ -10377,6 +10380,7 @@ https://dns.aa.net.uk/dns-query
 [/aflytec.com/]127.0.0.1:153
 [/afriendx.com/]127.0.0.1:153
 [/afrindex.com/]127.0.0.1:153
+[/afs-static.com/]127.0.0.1:153
 [/afshanghai.org/]127.0.0.1:153
 [/afszc.com/]127.0.0.1:153
 [/aft1v1.com/]127.0.0.1:153
@@ -24916,6 +24920,7 @@ https://dns.aa.net.uk/dns-query
 [/cosyjoy.com/]127.0.0.1:153
 [/cosz.com/]127.0.0.1:153
 [/cotek-robotics.com/]127.0.0.1:153
+[/cotenhao31.net/]127.0.0.1:153
 [/cotong.com/]127.0.0.1:153
 [/cotticoffee.com/]127.0.0.1:153
 [/cotv.tv/]127.0.0.1:153
@@ -26461,6 +26466,7 @@ https://dns.aa.net.uk/dns-query
 [/cupmcn.com/]127.0.0.1:153
 [/cuppot.com/]127.0.0.1:153
 [/curlc.com/]127.0.0.1:153
+[/curlymobi.com/]127.0.0.1:153
 [/current.vc/]127.0.0.1:153
 [/cursor.zone/]127.0.0.1:153
 [/curtisasia.com/]127.0.0.1:153
@@ -27559,6 +27565,7 @@ https://dns.aa.net.uk/dns-query
 [/dashu.com/]127.0.0.1:153
 [/dashubaba.com/]127.0.0.1:153
 [/dashuju123.com/]127.0.0.1:153
+[/dasiotravel.com/]127.0.0.1:153
 [/dasiyingyu.com/]127.0.0.1:153
 [/dasong108.com/]127.0.0.1:153
 [/dasoujia.com/]127.0.0.1:153
@@ -28448,6 +28455,7 @@ https://dns.aa.net.uk/dns-query
 [/dfjyun.com/]127.0.0.1:153
 [/dfkhgj.com/]127.0.0.1:153
 [/dfkj.cc/]127.0.0.1:153
+[/dfldgx.com/]127.0.0.1:153
 [/dflzm.com/]127.0.0.1:153
 [/dflzmxs.com/]127.0.0.1:153
 [/dfmc.com/]127.0.0.1:153
@@ -29538,6 +29546,7 @@ https://dns.aa.net.uk/dns-query
 [/dnsis.net/]127.0.0.1:153
 [/dnsjia.com/]127.0.0.1:153
 [/dnsjiasu001.com/]127.0.0.1:153
+[/dnsjp.cc/]127.0.0.1:153
 [/dnsjxla.com/]127.0.0.1:153
 [/dnslin.com/]127.0.0.1:153
 [/dnsmeasurement.com/]127.0.0.1:153
@@ -30165,6 +30174,7 @@ https://dns.aa.net.uk/dns-query
 [/dptechnology.net/]127.0.0.1:153
 [/dptel.com/]127.0.0.1:153
 [/dpurat.com/]127.0.0.1:153
+[/dpweixin.com/]127.0.0.1:153
 [/dpwl.net/]127.0.0.1:153
 [/dpxkjw.com/]127.0.0.1:153
 [/dpxq.com/]127.0.0.1:153
@@ -32358,6 +32368,7 @@ https://dns.aa.net.uk/dns-query
 [/enfodesk.com/]127.0.0.1:153
 [/enforever.com/]127.0.0.1:153
 [/eng24.com/]127.0.0.1:153
+[/engagelab.email/]127.0.0.1:153
 [/engeniustec.com/]127.0.0.1:153
 [/engeyuan.com/]127.0.0.1:153
 [/engley.com/]127.0.0.1:153
@@ -35750,6 +35761,7 @@ https://dns.aa.net.uk/dns-query
 [/fuma-carbide.com/]127.0.0.1:153
 [/fumake.com/]127.0.0.1:153
 [/fumaofawu.com/]127.0.0.1:153
+[/fumhwl.com/]127.0.0.1:153
 [/fumi.com/]127.0.0.1:153
 [/fumiaoyinpin.com/]127.0.0.1:153
 [/fumin.com/]127.0.0.1:153
@@ -38447,6 +38459,7 @@ https://dns.aa.net.uk/dns-query
 [/goertek.com/]127.0.0.1:153
 [/goetheslz.com/]127.0.0.1:153
 [/gofarqzyy.com/]127.0.0.1:153
+[/goflac.com/]127.0.0.1:153
 [/goforandroid.com/]127.0.0.1:153
 [/gofreeplay.com/]127.0.0.1:153
 [/gofrp.org/]127.0.0.1:153
@@ -40108,6 +40121,7 @@ https://dns.aa.net.uk/dns-query
 [/gxcmgr.com/]127.0.0.1:153
 [/gxcncec.com/]127.0.0.1:153
 [/gxcors.com/]127.0.0.1:153
+[/gxcould.com/]127.0.0.1:153
 [/gxcounty.com/]127.0.0.1:153
 [/gxcpa.com/]127.0.0.1:153
 [/gxcq188.com/]127.0.0.1:153
@@ -42110,6 +42124,7 @@ https://dns.aa.net.uk/dns-query
 [/gzqixun-tech.com/]127.0.0.1:153
 [/gzqljxd.com/]127.0.0.1:153
 [/gzqsts.com/]127.0.0.1:153
+[/gzquans.com/]127.0.0.1:153
 [/gzqunsheng.com/]127.0.0.1:153
 [/gzqygl.com/]127.0.0.1:153
 [/gzqz.com/]127.0.0.1:153
@@ -52712,6 +52727,7 @@ https://dns.aa.net.uk/dns-query
 [/jhconba.com/]127.0.0.1:153
 [/jhctbank.com/]127.0.0.1:153
 [/jhddsz.com/]127.0.0.1:153
+[/jhdexpress.com/]127.0.0.1:153
 [/jhdmro.com/]127.0.0.1:153
 [/jhdpower.com/]127.0.0.1:153
 [/jhdxjk.com/]127.0.0.1:153
@@ -52978,6 +52994,7 @@ https://dns.aa.net.uk/dns-query
 [/jianguoyun.com/]127.0.0.1:153
 [/jiangweishan.com/]127.0.0.1:153
 [/jiangxiatech.com/]127.0.0.1:153
+[/jiangxin-tech.com/]127.0.0.1:153
 [/jiangxinkeji.club/]127.0.0.1:153
 [/jiangxiol.com/]127.0.0.1:153
 [/jiangxirc.com/]127.0.0.1:153
@@ -53812,6 +53829,7 @@ https://dns.aa.net.uk/dns-query
 [/jinmenrc.com/]127.0.0.1:153
 [/jinming.net/]127.0.0.1:153
 [/jinmixuetang.com/]127.0.0.1:153
+[/jinmo.tech/]127.0.0.1:153
 [/jinmogame.com/]127.0.0.1:153
 [/jinmuinfo.com/]127.0.0.1:153
 [/jinnong.cc/]127.0.0.1:153
@@ -53873,6 +53891,7 @@ https://dns.aa.net.uk/dns-query
 [/jinshanmz.com/]127.0.0.1:153
 [/jinshasitemuseum.com/]127.0.0.1:153
 [/jinshaxuexiao.com/]127.0.0.1:153
+[/jinsheng73.com/]127.0.0.1:153
 [/jinshengceramics.com/]127.0.0.1:153
 [/jinshengtang.net/]127.0.0.1:153
 [/jinsheyi.com/]127.0.0.1:153
@@ -57044,6 +57063,7 @@ https://dns.aa.net.uk/dns-query
 [/kaowana.com/]127.0.0.1:153
 [/kaowang.com/]127.0.0.1:153
 [/kaowx.com/]127.0.0.1:153
+[/kaoyagogo.com/]127.0.0.1:153
 [/kaoyan.com/]127.0.0.1:153
 [/kaoyan.org/]127.0.0.1:153
 [/kaoyan1v1.com/]127.0.0.1:153
@@ -62344,6 +62364,7 @@ https://dns.aa.net.uk/dns-query
 [/luckao.com/]127.0.0.1:153
 [/luckeeinc.com/]127.0.0.1:153
 [/luckforcalendar.com/]127.0.0.1:153
+[/luckin.com/]127.0.0.1:153
 [/luckincalendar.com/]127.0.0.1:153
 [/luckincdn.com/]127.0.0.1:153
 [/luckincoffee.co/]127.0.0.1:153
@@ -66456,6 +66477,7 @@ https://dns.aa.net.uk/dns-query
 [/mtab.cc/]127.0.0.1:153
 [/mtadvert.com/]127.0.0.1:153
 [/mtadx.com/]127.0.0.1:153
+[/mtakm.com/]127.0.0.1:153
 [/mtaokj.com/]127.0.0.1:153
 [/mtavip.com/]127.0.0.1:153
 [/mtblj.com/]127.0.0.1:153
@@ -70131,6 +70153,7 @@ https://dns.aa.net.uk/dns-query
 [/ofo.com/]127.0.0.1:153
 [/ofpay.com/]127.0.0.1:153
 [/ofpay365.com/]127.0.0.1:153
+[/ofulai.com/]127.0.0.1:153
 [/ofuns.com/]127.0.0.1:153
 [/ofweek.com/]127.0.0.1:153
 [/ofweek.net/]127.0.0.1:153
@@ -71043,6 +71066,7 @@ https://dns.aa.net.uk/dns-query
 [/owulia.com/]127.0.0.1:153
 [/oxbridgedu.org/]127.0.0.1:153
 [/oxerr.net/]127.0.0.1:153
+[/oxflac.com/]127.0.0.1:153
 [/oxiang.com/]127.0.0.1:153
 [/oxiaohua.com/]127.0.0.1:153
 [/oxiranchem.com/]127.0.0.1:153
@@ -75070,6 +75094,7 @@ https://dns.aa.net.uk/dns-query
 [/qrtest.com/]127.0.0.1:153
 [/qrtz.co/]127.0.0.1:153
 [/qrx.cc/]127.0.0.1:153
+[/qrytsa.com/]127.0.0.1:153
 [/qrzxx.com/]127.0.0.1:153
 [/qs-jt.net/]127.0.0.1:153
 [/qs12315.com/]127.0.0.1:153
@@ -77793,6 +77818,7 @@ https://dns.aa.net.uk/dns-query
 [/safenext.com/]127.0.0.1:153
 [/safetyimg.com/]127.0.0.1:153
 [/safetystatic.com/]127.0.0.1:153
+[/safetytaxfree.com/]127.0.0.1:153
 [/safetyvod.com/]127.0.0.1:153
 [/safround.com/]127.0.0.1:153
 [/sagigame.net/]127.0.0.1:153
@@ -83658,6 +83684,7 @@ https://dns.aa.net.uk/dns-query
 [/sparkeduapi.com/]127.0.0.1:153
 [/sparkeducdn.com/]127.0.0.1:153
 [/sparkletour.com/]127.0.0.1:153
+[/sparknexa.com/]127.0.0.1:153
 [/spasvo.com/]127.0.0.1:153
 [/spawor.com/]127.0.0.1:153
 [/spay365.com/]127.0.0.1:153
@@ -84620,6 +84647,7 @@ https://dns.aa.net.uk/dns-query
 [/sungent.com/]127.0.0.1:153
 [/sungesoft.com/]127.0.0.1:153
 [/sungine.com/]127.0.0.1:153
+[/sungivenplus.com/]127.0.0.1:153
 [/sunglow-tec.com/]127.0.0.1:153
 [/sungoal.org/]127.0.0.1:153
 [/sungoedu.com/]127.0.0.1:153
@@ -84996,6 +85024,7 @@ https://dns.aa.net.uk/dns-query
 [/svipgulr.com/]127.0.0.1:153
 [/sviping.com/]127.0.0.1:153
 [/svlik.com/]127.0.0.1:153
+[/svlqgh.com/]127.0.0.1:153
 [/svn999.com/]127.0.0.1:153
 [/svnbucket.com/]127.0.0.1:153
 [/svnspot.com/]127.0.0.1:153
@@ -86860,6 +86889,7 @@ https://dns.aa.net.uk/dns-query
 [/taoniupin.com/]127.0.0.1:153
 [/taooo.cc/]127.0.0.1:153
 [/taopb.com/]127.0.0.1:153
+[/taopianzy.com/]127.0.0.1:153
 [/taopiaopiao.com/]127.0.0.1:153
 [/taopic.com/]127.0.0.1:153
 [/taopinquan.com/]127.0.0.1:153
@@ -91307,6 +91337,7 @@ https://dns.aa.net.uk/dns-query
 [/union555.com/]127.0.0.1:153
 [/unioncom.cc/]127.0.0.1:153
 [/unioncyber.net/]127.0.0.1:153
+[/unionflink.com/]127.0.0.1:153
 [/unionli.com/]127.0.0.1:153
 [/unionpay.com/]127.0.0.1:153
 [/unionpay.net/]127.0.0.1:153
@@ -98727,6 +98758,7 @@ https://dns.aa.net.uk/dns-query
 [/xijingjianzhan9.com/]127.0.0.1:153
 [/xikang365.net/]127.0.0.1:153
 [/xikcloud.com/]127.0.0.1:153
+[/xikestor.com/]127.0.0.1:153
 [/xikii.com/]127.0.0.1:153
 [/xikoutourism.com/]127.0.0.1:153
 [/xikuan.com/]127.0.0.1:153
@@ -100154,6 +100186,7 @@ https://dns.aa.net.uk/dns-query
 [/xn--xkr190gv5p.com/]127.0.0.1:153
 [/xn--xkr999cp4fv97a.com/]127.0.0.1:153
 [/xn--xkrs9ba41r.com/]127.0.0.1:153
+[/xn--xwrq59aduur60a.com/]127.0.0.1:153
 [/xn--y8jhmm6gn.moe/]127.0.0.1:153
 [/xn--yetw60a.xyz/]127.0.0.1:153
 [/xn--ygtp21bwyedsq.com/]127.0.0.1:153
@@ -100458,6 +100491,7 @@ https://dns.aa.net.uk/dns-query
 [/xthinking.net/]127.0.0.1:153
 [/xthtc.com/]127.0.0.1:153
 [/xthyjt.com/]127.0.0.1:153
+[/xtia.design/]127.0.0.1:153
 [/xtiai.com/]127.0.0.1:153
 [/xtianlang.com/]127.0.0.1:153
 [/xtibet.com/]127.0.0.1:153
@@ -103132,6 +103166,7 @@ https://dns.aa.net.uk/dns-query
 [/yinjispace.com/]127.0.0.1:153
 [/yinka.co/]127.0.0.1:153
 [/yinkead.com/]127.0.0.1:153
+[/yinkeshidai.com/]127.0.0.1:153
 [/yinlimedia.com/]127.0.0.1:153
 [/yinlingshuyuan.com/]127.0.0.1:153
 [/yinmakeji.com/]127.0.0.1:153
@@ -104672,6 +104707,7 @@ https://dns.aa.net.uk/dns-query
 [/yr-info.com/]127.0.0.1:153
 [/yr17.net/]127.0.0.1:153
 [/yr3.com/]127.0.0.1:153
+[/yr4c3jo8ry.com/]127.0.0.1:153
 [/yra2.com/]127.0.0.1:153
 [/yracc.com/]127.0.0.1:153
 [/yrapp.net/]127.0.0.1:153
@@ -105866,6 +105902,7 @@ https://dns.aa.net.uk/dns-query
 [/yx1312.com/]127.0.0.1:153
 [/yx192.com/]127.0.0.1:153
 [/yx231.com/]127.0.0.1:153
+[/yx338.com/]127.0.0.1:153
 [/yx643.com/]127.0.0.1:153
 [/yx7088.com/]127.0.0.1:153
 [/yx74.com/]127.0.0.1:153
@@ -106109,6 +106146,7 @@ https://dns.aa.net.uk/dns-query
 [/yytek.com/]127.0.0.1:153
 [/yytfood.com/]127.0.0.1:153
 [/yytiflytek.com/]127.0.0.1:153
+[/yytsks.com/]127.0.0.1:153
 [/yyuap.com/]127.0.0.1:153
 [/yyutfzv.com/]127.0.0.1:153
 [/yywd.com/]127.0.0.1:153
@@ -106156,6 +106194,7 @@ https://dns.aa.net.uk/dns-query
 [/yz-li.com/]127.0.0.1:153
 [/yz-machinery.com/]127.0.0.1:153
 [/yz-proton.com/]127.0.0.1:153
+[/yz-shield.com/]127.0.0.1:153
 [/yz-show.com/]127.0.0.1:153
 [/yz-xd.com/]127.0.0.1:153
 [/yz0752.com/]127.0.0.1:153
