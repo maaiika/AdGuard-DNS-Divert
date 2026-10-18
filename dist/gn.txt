@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-10-17 11:07:41
+# 自动生成于 2026-10-18 11:10:32
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -73,7 +73,7 @@ https://dns.aa.net.uk/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 110181 个域名，逐条规则）
+# 国内域名规则（共 110182 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]127.0.0.1:153
@@ -29728,6 +29728,7 @@ https://dns.aa.net.uk/dns-query
 [/downkr.com/]127.0.0.1:153
 [/downkuai.com/]127.0.0.1:153
 [/download.jetbrains.com/]127.0.0.1:153
+[/download.microsoft.com/]127.0.0.1:153
 [/download.visualstudio.microsoft.com/]127.0.0.1:153
 [/download.windowsupdate.com/]127.0.0.1:153
 [/downloads.ltd/]127.0.0.1:153
