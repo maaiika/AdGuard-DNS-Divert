@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-03 13:29:01
+# 自动生成于 2026-11-04 12:57:37
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -62,7 +62,7 @@
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33009 个域名，逐条规则）
+# 国外域名规则（共 33010 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
@@ -4094,6 +4094,7 @@
 [/bili2.cc/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/bili888.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/bili999.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
+[/bilibili.tv/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/biliintl.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/bilinovel.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/biliplus.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
