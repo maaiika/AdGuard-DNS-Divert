@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-13 13:14:13
+# 自动生成于 2026-11-14 13:03:55
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -62,7 +62,7 @@
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33010 个域名，逐条规则）
+# 国外域名规则（共 33011 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
@@ -472,6 +472,7 @@
 [/51luoben.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/51luoli.info/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/51mh.app/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
+[/51papaya.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/51pincha.cc/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/51tuqiang.com/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
 [/520aa.tv/]tls://1.1.1.1:853 https://hk2.ooroot.com/dns-query https://kr1.ooroot.com/dns-query https://sg-dns1.bancuh.com/dns-query https://sg2.ooroot.com/dns-query https://dot-sg.blahdns.com/dns-query https://dns.digitale-gesellschaft.ch/dns-query https://anycast.uncensoreddns.org/dns-query https://doh.applied-privacy.net/query https://ns1.fdn.fr/dns-query https://doh-01.spectrum.com/dns-query https://dns.aa.net.uk/dns-query
