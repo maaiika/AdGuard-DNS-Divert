@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 白名单模式（逐条规则）
-# 自动生成于 2026-11-14 13:03:53
+# 自动生成于 2026-11-15 12:57:04
 # 白名单模式：命中国内域名走国内DNS，其他走国外DNS
 # 包含自定义域名DNS规则
 
@@ -73,7 +73,7 @@ https://dns.aa.net.uk/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国内域名规则（共 109942 个域名，逐条规则）
+# 国内域名规则（共 109893 个域名，逐条规则）
 # 已排除 27 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/0.xn--czrs0t/]127.0.0.1:153
@@ -491,9 +491,7 @@ https://dns.aa.net.uk/dns-query
 [/03bcyh2069.xin/]127.0.0.1:153
 [/03cl.xin/]127.0.0.1:153
 [/03cz8604316.xin/]127.0.0.1:153
-[/03d882c8810271.beer/]127.0.0.1:153
 [/03dq.com/]127.0.0.1:153
-[/03f99b91610271.beer/]127.0.0.1:153
 [/03fcw.com/]127.0.0.1:153
 [/03k.org/]127.0.0.1:153
 [/03supin.com/]127.0.0.1:153
@@ -956,7 +954,6 @@ https://dns.aa.net.uk/dns-query
 [/0941.org/]127.0.0.1:153
 [/09451.com/]127.0.0.1:153
 [/094j35.com/]127.0.0.1:153
-[/095.xin/]127.0.0.1:153
 [/095196555.com/]127.0.0.1:153
 [/09527.xin/]127.0.0.1:153
 [/0952xh.com/]127.0.0.1:153
@@ -990,7 +987,6 @@ https://dns.aa.net.uk/dns-query
 [/0b4xq91061.xin/]127.0.0.1:153
 [/0b6e0659811021.beer/]127.0.0.1:153
 [/0b8ky116130.xin/]127.0.0.1:153
-[/0bb875c361022.beer/]127.0.0.1:153
 [/0bbd0e535194e7f7.com/]127.0.0.1:153
 [/0bdfe52341114.beer/]127.0.0.1:153
 [/0bef0493410272.beer/]127.0.0.1:153
@@ -1023,7 +1019,6 @@ https://dns.aa.net.uk/dns-query
 [/0duw.com/]127.0.0.1:153
 [/0dxkge0412.xin/]127.0.0.1:153
 [/0e0c2e9e94622290.com/]127.0.0.1:153
-[/0e38e883511032.beer/]127.0.0.1:153
 [/0e7o6216306.xin/]127.0.0.1:153
 [/0easy.com/]127.0.0.1:153
 [/0ee18d4c192243b3.com/]127.0.0.1:153
@@ -1957,7 +1952,6 @@ https://dns.aa.net.uk/dns-query
 [/16885.com/]127.0.0.1:153
 [/16886000.com/]127.0.0.1:153
 [/16888.com/]127.0.0.1:153
-[/1688988.com/]127.0.0.1:153
 [/1688du.com/]127.0.0.1:153
 [/1688e.com/]127.0.0.1:153
 [/1688eric.com/]127.0.0.1:153
@@ -3131,7 +3125,6 @@ https://dns.aa.net.uk/dns-query
 [/26923.com/]127.0.0.1:153
 [/26a9118418e77c84.com/]127.0.0.1:153
 [/26c23b9f311042.beer/]127.0.0.1:153
-[/26ce3e05310251.beer/]127.0.0.1:153
 [/26d124fdb11032.beer/]127.0.0.1:153
 [/26duc.com/]127.0.0.1:153
 [/26e02ca8210272.beer/]127.0.0.1:153
@@ -3178,7 +3171,6 @@ https://dns.aa.net.uk/dns-query
 [/288idc.com/]127.0.0.1:153
 [/289.com/]127.0.0.1:153
 [/2898.com/]127.0.0.1:153
-[/28d4cc3671024.beer/]127.0.0.1:153
 [/28e4cd79f1023.beer/]127.0.0.1:153
 [/28gl.com/]127.0.0.1:153
 [/28ka.com/]127.0.0.1:153
@@ -3247,7 +3239,6 @@ https://dns.aa.net.uk/dns-query
 [/2dph.com/]127.0.0.1:153
 [/2du.net/]127.0.0.1:153
 [/2dyou.com/]127.0.0.1:153
-[/2e30175771022.beer/]127.0.0.1:153
 [/2e30a72a21023.beer/]127.0.0.1:153
 [/2ea31935add3d6b0.com/]127.0.0.1:153
 [/2eb4189e6451af49.com/]127.0.0.1:153
@@ -3260,7 +3251,6 @@ https://dns.aa.net.uk/dns-query
 [/2f.com/]127.0.0.1:153
 [/2f24ad2dc10261.beer/]127.0.0.1:153
 [/2fa.vip/]127.0.0.1:153
-[/2facb31bb10272.beer/]127.0.0.1:153
 [/2fda37d4c10292.beer/]127.0.0.1:153
 [/2gdt.com/]127.0.0.1:153
 [/2gei.com/]127.0.0.1:153
@@ -3643,7 +3633,6 @@ https://dns.aa.net.uk/dns-query
 [/346888.com/]127.0.0.1:153
 [/346g4247o9.world/]127.0.0.1:153
 [/346tudx.com/]127.0.0.1:153
-[/34f04e8d410291.beer/]127.0.0.1:153
 [/34lou.com/]127.0.0.1:153
 [/34wl.com/]127.0.0.1:153
 [/34xian.com/]127.0.0.1:153
@@ -4542,7 +4531,6 @@ https://dns.aa.net.uk/dns-query
 [/437zhifu.com/]127.0.0.1:153
 [/43803a8c410261.beer/]127.0.0.1:153
 [/4393ce88a10272.beer/]127.0.0.1:153
-[/4395e6c8b10291.beer/]127.0.0.1:153
 [/4399.com/]127.0.0.1:153
 [/4399.net/]127.0.0.1:153
 [/43999yx.com/]127.0.0.1:153
@@ -4655,7 +4643,6 @@ https://dns.aa.net.uk/dns-query
 [/47964154c11021.beer/]127.0.0.1:153
 [/479d8573510301.beer/]127.0.0.1:153
 [/47daili.com/]127.0.0.1:153
-[/47e17a13ee18fa43.com/]127.0.0.1:153
 [/47gs.com/]127.0.0.1:153
 [/47rq.com/]127.0.0.1:153
 [/47zu.com/]127.0.0.1:153
@@ -4681,7 +4668,6 @@ https://dns.aa.net.uk/dns-query
 [/4901.com/]127.0.0.1:153
 [/490186.com/]127.0.0.1:153
 [/491.com/]127.0.0.1:153
-[/492f2622e64c138e.com/]127.0.0.1:153
 [/4930.com/]127.0.0.1:153
 [/4933.com/]127.0.0.1:153
 [/49358.com/]127.0.0.1:153
@@ -4738,7 +4724,6 @@ https://dns.aa.net.uk/dns-query
 [/4ef06207210281.beer/]127.0.0.1:153
 [/4ef870db01022.beer/]127.0.0.1:153
 [/4everdns.com/]127.0.0.1:153
-[/4f0b987b410311.beer/]127.0.0.1:153
 [/4f61.com/]127.0.0.1:153
 [/4f89.com/]127.0.0.1:153
 [/4fang.net/]127.0.0.1:153
@@ -5062,7 +5047,6 @@ https://dns.aa.net.uk/dns-query
 [/51ean.com/]127.0.0.1:153
 [/51ean.xin/]127.0.0.1:153
 [/51easymaster.com/]127.0.0.1:153
-[/51eb0685c11021.beer/]127.0.0.1:153
 [/51ebo.com/]127.0.0.1:153
 [/51ebooks.com/]127.0.0.1:153
 [/51eduline.com/]127.0.0.1:153
@@ -6908,7 +6892,6 @@ https://dns.aa.net.uk/dns-query
 [/68u.co/]127.0.0.1:153
 [/68websoft.com/]127.0.0.1:153
 [/68zhan.net/]127.0.0.1:153
-[/69090.com/]127.0.0.1:153
 [/6912s.com/]127.0.0.1:153
 [/6917.com/]127.0.0.1:153
 [/692657.com/]127.0.0.1:153
@@ -7166,7 +7149,6 @@ https://dns.aa.net.uk/dns-query
 [/72287o.xyz/]127.0.0.1:153
 [/7230.com/]127.0.0.1:153
 [/7239ll.net/]127.0.0.1:153
-[/723e7a5a510261.beer/]127.0.0.1:153
 [/7245f7d6211012.beer/]127.0.0.1:153
 [/724pride.com/]127.0.0.1:153
 [/724pridecryogenics.com/]127.0.0.1:153
@@ -7481,7 +7463,6 @@ https://dns.aa.net.uk/dns-query
 [/7down.net/]127.0.0.1:153
 [/7e.hk/]127.0.0.1:153
 [/7e051eec511021.beer/]127.0.0.1:153
-[/7e9dba1891021.beer/]127.0.0.1:153
 [/7east.com/]127.0.0.1:153
 [/7ed.net/]127.0.0.1:153
 [/7edown.com/]127.0.0.1:153
@@ -9043,7 +9024,6 @@ https://dns.aa.net.uk/dns-query
 [/9duw.com/]127.0.0.1:153
 [/9dwork.com/]127.0.0.1:153
 [/9e.gs/]127.0.0.1:153
-[/9eacc080d10291.beer/]127.0.0.1:153
 [/9earth.com/]127.0.0.1:153
 [/9eip.com/]127.0.0.1:153
 [/9ele.com/]127.0.0.1:153
@@ -9189,7 +9169,6 @@ https://dns.aa.net.uk/dns-query
 [/a-sy.com/]127.0.0.1:153
 [/a-xun.com/]127.0.0.1:153
 [/a.xttv.top/]127.0.0.1:153
-[/a049636971024.beer/]127.0.0.1:153
 [/a04d48409e40ca3f.com/]127.0.0.1:153
 [/a0598.com/]127.0.0.1:153
 [/a0770.com/]127.0.0.1:153
@@ -9691,6 +9670,7 @@ https://dns.aa.net.uk/dns-query
 [/adpfm513.com/]127.0.0.1:153
 [/adplusx.com/]127.0.0.1:153
 [/adpsh.com/]127.0.0.1:153
+[/adqiyu.com/]127.0.0.1:153
 [/adqtt.net/]127.0.0.1:153
 [/adquan.com/]127.0.0.1:153
 [/adrkwai.com/]127.0.0.1:153
@@ -9781,7 +9761,6 @@ https://dns.aa.net.uk/dns-query
 [/adznb.com/]127.0.0.1:153
 [/adzshd.com/]127.0.0.1:153
 [/ae-inbr.xin/]127.0.0.1:153
-[/ae0f9d6cf11021.beer/]127.0.0.1:153
 [/ae1234.com/]127.0.0.1:153
 [/ae256.com/]127.0.0.1:153
 [/ae3a6d6e09359c15.com/]127.0.0.1:153
@@ -14870,7 +14849,6 @@ https://dns.aa.net.uk/dns-query
 [/bf-jxqc.com/]127.0.0.1:153
 [/bf-z.com/]127.0.0.1:153
 [/bf-zhengzhou.com/]127.0.0.1:153
-[/bf07e33c810281.beer/]127.0.0.1:153
 [/bf35.com/]127.0.0.1:153
 [/bf99.com/]127.0.0.1:153
 [/bfcdnbf.com/]127.0.0.1:153
@@ -16106,7 +16084,6 @@ https://dns.aa.net.uk/dns-query
 [/bjxf315.com/]127.0.0.1:153
 [/bjxhly.com/]127.0.0.1:153
 [/bjximei.com/]127.0.0.1:153
-[/bjxingma.com/]127.0.0.1:153
 [/bjxingzheng.com/]127.0.0.1:153
 [/bjxinku.com/]127.0.0.1:153
 [/bjxjyy666.com/]127.0.0.1:153
@@ -17982,7 +17959,6 @@ https://dns.aa.net.uk/dns-query
 [/caiweiming.com/]127.0.0.1:153
 [/caiwennews.com/]127.0.0.1:153
 [/caiwuchina.com/]127.0.0.1:153
-[/caixadirectaanalisar.com/]127.0.0.1:153
 [/caixin.com/]127.0.0.1:153
 [/caixinfoundation.org/]127.0.0.1:153
 [/caixinmedia.com/]127.0.0.1:153
@@ -19255,7 +19231,6 @@ https://dns.aa.net.uk/dns-query
 [/ce-air.com/]127.0.0.1:153
 [/ce04.com/]127.0.0.1:153
 [/ce2293.com/]127.0.0.1:153
-[/cea45b9f61023.beer/]127.0.0.1:153
 [/ceacq.com/]127.0.0.1:153
 [/ceair.com/]127.0.0.1:153
 [/ceairdutyfree.com/]127.0.0.1:153
@@ -21839,7 +21814,6 @@ https://dns.aa.net.uk/dns-query
 [/chuanshanqundao.com/]127.0.0.1:153
 [/chuansinfo.com/]127.0.0.1:153
 [/chuantec.com/]127.0.0.1:153
-[/chuantiegroup.com/]127.0.0.1:153
 [/chuanye.com/]127.0.0.1:153
 [/chuanyejinxuan.xyz/]127.0.0.1:153
 [/chuanyifu.com/]127.0.0.1:153
@@ -24001,7 +23975,6 @@ https://dns.aa.net.uk/dns-query
 [/college-ing.com/]127.0.0.1:153
 [/college.globalsign.com/]127.0.0.1:153
 [/collt.org/]127.0.0.1:153
-[/colly-pink.com/]127.0.0.1:153
 [/colobu.com/]127.0.0.1:153
 [/colocess.com/]127.0.0.1:153
 [/color-measure.com/]127.0.0.1:153
@@ -26450,7 +26423,6 @@ https://dns.aa.net.uk/dns-query
 [/daduoduo.com/]127.0.0.1:153
 [/daduofa.com/]127.0.0.1:153
 [/dadushixiecheng.com/]127.0.0.1:153
-[/daeac4faf10292.beer/]127.0.0.1:153
 [/daerzhu.com/]127.0.0.1:153
 [/daeshin-china.com/]127.0.0.1:153
 [/daetool.com/]127.0.0.1:153
@@ -26531,7 +26503,6 @@ https://dns.aa.net.uk/dns-query
 [/daigou.com/]127.0.0.1:153
 [/daihing.com/]127.0.0.1:153
 [/daijun.com/]127.0.0.1:153
-[/daikandq.com/]127.0.0.1:153
 [/daikuan.com/]127.0.0.1:153
 [/daili321.com/]127.0.0.1:153
 [/dailianmama.com/]127.0.0.1:153
@@ -27394,7 +27365,6 @@ https://dns.aa.net.uk/dns-query
 [/de1000.com/]127.0.0.1:153
 [/de123.net/]127.0.0.1:153
 [/de1919.com/]127.0.0.1:153
-[/de2edec3011032.beer/]127.0.0.1:153
 [/de83cc01111.xin/]127.0.0.1:153
 [/de9745f491023.beer/]127.0.0.1:153
 [/deaconhousewuxi.com/]127.0.0.1:153
@@ -27770,7 +27740,6 @@ https://dns.aa.net.uk/dns-query
 [/dfdinsin.com/]127.0.0.1:153
 [/dfebda0512.vip/]127.0.0.1:153
 [/dfedu.com/]127.0.0.1:153
-[/dfeeb7ee91022.beer/]127.0.0.1:153
 [/dfev.net/]127.0.0.1:153
 [/dffcw.net/]127.0.0.1:153
 [/dfgiso.com/]127.0.0.1:153
@@ -31690,7 +31659,6 @@ https://dns.aa.net.uk/dns-query
 [/enjoyor.net/]127.0.0.1:153
 [/enjoyyue.com/]127.0.0.1:153
 [/enjoyz.com/]127.0.0.1:153
-[/enketu.com/]127.0.0.1:153
 [/enkichen.com/]127.0.0.1:153
 [/enkj.com/]127.0.0.1:153
 [/enkris.com/]127.0.0.1:153
@@ -32644,7 +32612,6 @@ https://dns.aa.net.uk/dns-query
 [/f79ca805111881f6.com/]127.0.0.1:153
 [/f7aa9093710281.beer/]127.0.0.1:153
 [/f7chinavip.com/]127.0.0.1:153
-[/f7e84829210281.beer/]127.0.0.1:153
 [/f7yuncdn.com/]127.0.0.1:153
 [/f831fb9ce11031.beer/]127.0.0.1:153
 [/f92ec0629f52f064.com/]127.0.0.1:153
@@ -35016,7 +34983,6 @@ https://dns.aa.net.uk/dns-query
 [/fumiaoyinpin.com/]127.0.0.1:153
 [/fumin.com/]127.0.0.1:153
 [/fumu.com/]127.0.0.1:153
-[/fumubang.com/]127.0.0.1:153
 [/fumuhui.com/]127.0.0.1:153
 [/fun.tv/]127.0.0.1:153
 [/fun4go.com/]127.0.0.1:153
@@ -37959,7 +37925,6 @@ https://dns.aa.net.uk/dns-query
 [/google-hub.com/]127.0.0.1:153
 [/googlebbs.net/]127.0.0.1:153
 [/googlenav.com/]127.0.0.1:153
-[/googleplus.party/]127.0.0.1:153
 [/googleppy.com/]127.0.0.1:153
 [/googlevoice.org/]127.0.0.1:153
 [/googleyixia.com/]127.0.0.1:153
@@ -49420,7 +49385,6 @@ https://dns.aa.net.uk/dns-query
 [/iikuzhan.com/]127.0.0.1:153
 [/iikx.com/]127.0.0.1:153
 [/iinhotel.com/]127.0.0.1:153
-[/iinorii.com/]127.0.0.1:153
 [/iiolink.com/]127.0.0.1:153
 [/iiong.com/]127.0.0.1:153
 [/iipcloud.com/]127.0.0.1:153
@@ -52096,7 +52060,6 @@ https://dns.aa.net.uk/dns-query
 [/jiancepai.com/]127.0.0.1:153
 [/jiancepaper.com/]127.0.0.1:153
 [/jiancesys.com/]127.0.0.1:153
-[/jianchiapp.com/]127.0.0.1:153
 [/jianchihu.net/]127.0.0.1:153
 [/jiandaima.com/]127.0.0.1:153
 [/jiandan.net/]127.0.0.1:153
@@ -55078,7 +55041,6 @@ https://dns.aa.net.uk/dns-query
 [/juming-xz.com/]127.0.0.1:153
 [/juming.com/]127.0.0.1:153
 [/jumingwang.com/]127.0.0.1:153
-[/jumold.com/]127.0.0.1:153
 [/jumore.com/]127.0.0.1:153
 [/jump-center.com/]127.0.0.1:153
 [/jump-game.com/]127.0.0.1:153
@@ -56671,7 +56633,6 @@ https://dns.aa.net.uk/dns-query
 [/kfhome.com/]127.0.0.1:153
 [/kfhty.com/]127.0.0.1:153
 [/kfj.cc/]127.0.0.1:153
-[/kfjd.com/]127.0.0.1:153
 [/kfjyd.com/]127.0.0.1:153
 [/kfjyjt.com/]127.0.0.1:153
 [/kflhgs.com/]127.0.0.1:153
@@ -57266,7 +57227,6 @@ https://dns.aa.net.uk/dns-query
 [/kopperchem.com/]127.0.0.1:153
 [/koreabt.com/]127.0.0.1:153
 [/koreavisa-wh.com/]127.0.0.1:153
-[/korirl.com/]127.0.0.1:153
 [/kormee.com/]127.0.0.1:153
 [/kornsweets.com/]127.0.0.1:153
 [/koronsoft.com/]127.0.0.1:153
@@ -65488,7 +65448,6 @@ https://dns.aa.net.uk/dns-query
 [/mrjjxw.com/]127.0.0.1:153
 [/mrlian.club/]127.0.0.1:153
 [/mrlika.com/]127.0.0.1:153
-[/mrlxc51byo.com/]127.0.0.1:153
 [/mrmfsc.ltd/]127.0.0.1:153
 [/mro365.com/]127.0.0.1:153
 [/mro9.com/]127.0.0.1:153
@@ -67853,7 +67812,6 @@ https://dns.aa.net.uk/dns-query
 [/njnewgreen.com/]127.0.0.1:153
 [/njnfwl.com/]127.0.0.1:153
 [/njnhsx.net/]127.0.0.1:153
-[/njnhyx.net/]127.0.0.1:153
 [/njnii.com/]127.0.0.1:153
 [/njningyi.com/]127.0.0.1:153
 [/njnkxt.com/]127.0.0.1:153
@@ -72423,7 +72381,6 @@ https://dns.aa.net.uk/dns-query
 [/pzfc.com/]127.0.0.1:153
 [/pzfcw.com/]127.0.0.1:153
 [/pzhccb.com/]127.0.0.1:153
-[/pzhdahe.com/]127.0.0.1:153
 [/pzhedu.com/]127.0.0.1:153
 [/pzhl.net/]127.0.0.1:153
 [/pzhol.com/]127.0.0.1:153
@@ -72508,7 +72465,6 @@ https://dns.aa.net.uk/dns-query
 [/qc6.com/]127.0.0.1:153
 [/qc99.com/]127.0.0.1:153
 [/qca.org/]127.0.0.1:153
-[/qcaipiao.com/]127.0.0.1:153
 [/qcbaas.com/]127.0.0.1:153
 [/qcbone.com/]127.0.0.1:153
 [/qcc.com/]127.0.0.1:153
@@ -80158,7 +80114,6 @@ https://dns.aa.net.uk/dns-query
 [/shootmedia.net/]127.0.0.1:153
 [/shop-isv.com/]127.0.0.1:153
 [/shop.globalsign.com/]127.0.0.1:153
-[/shop265.com/]127.0.0.1:153
 [/shop2cn.com/]127.0.0.1:153
 [/shopbackdrop.com/]127.0.0.1:153
 [/shopchaoren.com/]127.0.0.1:153
@@ -80600,7 +80555,6 @@ https://dns.aa.net.uk/dns-query
 [/shujubang.com/]127.0.0.1:153
 [/shujubo.com/]127.0.0.1:153
 [/shujujishi.com/]127.0.0.1:153
-[/shujulin.com/]127.0.0.1:153
 [/shujupie.com/]127.0.0.1:153
 [/shujutang.com/]127.0.0.1:153
 [/shujuwa.net/]127.0.0.1:153
@@ -95673,7 +95627,6 @@ https://dns.aa.net.uk/dns-query
 [/wwejds.com/]127.0.0.1:153
 [/wwenglish.com/]127.0.0.1:153
 [/wwenglish.org/]127.0.0.1:153
-[/wwentua.com/]127.0.0.1:153
 [/wwfchina.org/]127.0.0.1:153
 [/wwhlian.com/]127.0.0.1:153
 [/wwjie.com/]127.0.0.1:153
@@ -106683,7 +106636,6 @@ https://dns.aa.net.uk/dns-query
 [/zhhaitai.com/]127.0.0.1:153
 [/zhheo.com/]127.0.0.1:153
 [/zhhfedu.com/]127.0.0.1:153
-[/zhhlaw.com/]127.0.0.1:153
 [/zhhlogistics.com/]127.0.0.1:153
 [/zhhrm.com/]127.0.0.1:153
 [/zhhs-china.com/]127.0.0.1:153
@@ -109971,7 +109923,6 @@ https://dns.aa.net.uk/dns-query
 [/zzwonder.com/]127.0.0.1:153
 [/zzwqqx.com/]127.0.0.1:153
 [/zzwro.com/]127.0.0.1:153
-[/zzwtjx.com/]127.0.0.1:153
 [/zzwwiidd.com/]127.0.0.1:153
 [/zzwzj.com/]127.0.0.1:153
 [/zzxca.com/]127.0.0.1:153
