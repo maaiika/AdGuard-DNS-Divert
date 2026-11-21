@@ -6874,6 +6874,7 @@ cmhalq.com
 cmi.org.tw
 cmmedia.com.tw
 cmoinc.org
+cmoney.tw
 cmp.hku.hk
 cmpaas.com
 cmpcp.ac.uk
@@ -12941,6 +12942,7 @@ greatwesternresearch.ac.uk
 greatzhonghua.org
 gree
 greenbankcollege.ac.uk
+greenbean.media
 greenbuildingstudio.com
 greenend.org.uk
 greenfieldbookstore.com.hk
@@ -13817,10 +13819,12 @@ hkchurch.org
 hkci.org.hk
 hkcircleapp.com
 hkcitizenmedia.com
+hkcitycreation.com
 hkcmi.edu
 hkcnews.com
 hkcoc.com
 hkcoc.weather.com.hk
+hkcourtnews.com
 hkcsl.com
 hkctu.org.hk
 hkdailynews.com.hk
@@ -13836,6 +13840,7 @@ hkf2023.lat
 hkf202311.site
 hkf202312.shop
 hkfaa.com
+hkfeature.com
 hkfreezone.com
 hkfront.org
 hkgalden.com
@@ -17315,6 +17320,7 @@ lifelonglearning.ac.uk
 lifemiles.com
 lifeselector.com
 lifesign.ac.uk
+lifesitenews.com
 lifestudy.ac.uk
 lifewire.com
 liftapp.ac.uk
@@ -18223,6 +18229,7 @@ massage-in-taipei.com
 massagerepublic.com
 masseffect.com
 masseffectarchives.com
+master-insight.com
 mastercad.com
 mastercard-email.com
 mastercard.ae
@@ -18427,6 +18434,7 @@ mbro.ac.uk
 mbs-worldwide.ac.uk
 mbs.ac.uk
 mc
+mc.yandex.ru
 mc6.ac.uk
 mca.ac.uk
 mcadforums.com
@@ -19432,6 +19440,7 @@ mondex.org
 money-link.com.tw
 moneydj.com
 moneyhome.biz
+moneynet.com.tw
 moneyswift.online
 moneywithfacebook.com
 mongodb.com
@@ -19806,6 +19815,7 @@ mxshm.site
 my
 my-enema.com
 my-formosa.com
+my-formosa.com.tw
 my-kualalumpur-1.myhuaweicloud.com
 my-magazine.me
 my-private-network.co.uk
@@ -23696,6 +23706,7 @@ pullfolio.co
 pullfolio.com
 pullstring.net
 pulsebrowser.app
+pulsehknews.com
 punishbang.com
 punishworld.com
 punyu.com
@@ -25619,6 +25630,7 @@ shambalapost.com
 shambhalasun.com
 shameless.com
 shangfang.org
+shanghainationalparty.com
 shapelcounset.xyz
 shapeservices.com
 share-videos.se
@@ -27476,6 +27488,7 @@ taiwanncf.org.tw
 taiwannews.com.tw
 taiwanonline.cc
 taiwansex.tw
+taiwantoday.tw
 taiwantp.net
 taiwantt.org.tw
 taiwanus.net
@@ -27876,6 +27889,7 @@ theclub.com.hk
 theclubprive.com
 theclyster.com
 thecobaltstudy.ac.uk
+thecollectivehk.com
 thecompaqstore.com
 thecontactpartnership.ac.uk
 theconversation.com
@@ -27959,6 +27973,7 @@ thenewslens.com
 thenextweb.com
 thenipslip.com
 theoca.ac.uk
+theonlinecitizen.com
 theopportunityproject.org
 thepaypalshop.com
 thepervs.com
@@ -28003,6 +28018,7 @@ thesimssocial.com
 theskillsco.ac.uk
 thestandard.com.hk
 thestandnews.com
+thestar.com
 thestationbymaker.com
 thesun.co.uk
 thesun.ie
@@ -28030,6 +28046,7 @@ theweek.com
 theweek.in
 thewgo.org
 thewirechina.com
+thewitnesshk.com
 thewomenslibrary.ac.uk
 thewonderful101.com
 theync.com
@@ -31256,6 +31273,7 @@ wolterskluwer.com
 wolvcoll.ac.uk
 wolverhampton.ac.uk
 wolverhamptonline.ac.uk
+womany.net
 wombo.ai
 womensnikeshox.com
 womenwill.com
