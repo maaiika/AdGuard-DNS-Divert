@@ -1174,12 +1174,10 @@ ahxxx.club
 ai
 ai-kan.net
 ai-wen.net
-ai.azure.com
 ai.binwang.me
 ai.com
 ai.dev
 ai.google
-ai.google.dev
 ai.studio
 ai3sd.ac.uk
 ai7995.site
@@ -1281,7 +1279,6 @@ aisejushi.com
 aisex.com
 aishegw.com
 aiss.anws.gov.tw
-aistudio.google.com
 ait.org.tw
 aiv-cdn.net
 aiv-delivery.net
@@ -1959,8 +1956,6 @@ api-p.videomarket.jp
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.githubcopilot.com
-api.groq.com
 api.linksalpha.com
 api.mixpanel.com
 api.moomoobull.com
@@ -1973,7 +1968,6 @@ api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
 api.themoviedb.org
-api.together.xyz
 api.viu.now.com
 api.waqi.info
 apiary.io
@@ -3246,7 +3240,6 @@ banorte.com
 bar
 baraero.com
 baramangaonline.com
-bard.google.com
 barefootnetworks.com
 barelist.com
 barenakedislam.com
@@ -6237,7 +6230,6 @@ ch
 ch.shvoong.com
 ch9.ms
 chace.ac.uk
-challenges.cloudflare.com
 championshipseriesleague.com
 change.org
 changeip.name
@@ -6757,7 +6749,6 @@ clickedu.co.uk
 clickserve.cc-dt.com
 clickserver.googleads.com
 clien.net
-client-api.arkoselabs.com
 cliffcollege.ac.uk
 climate-lab-book.ac.uk
 climate-server.com
@@ -7151,7 +7142,6 @@ conscrypt.com
 conscrypt.org
 conservatoiresuk.ac.uk
 consilience.ac.uk
-console.groq.com
 console.typesafe.ai
 constitutionalism.solutions
 constructware.com
@@ -7191,8 +7181,6 @@ coova.com
 coova.net
 coova.org
 copac.ac.uk
-copilot-proxy.githubusercontent.com
-copilot.cloud.microsoft
 copilot.microsoft.com
 copim.ac.uk
 copior.ac.uk
@@ -10040,7 +10028,6 @@ evanottyvideos.com
 evchk.wikia.com
 evemodels.com
 even.stream
-events.statsigapi.net
 eventsinfocus.org
 everia.club
 everipedia.org
@@ -10720,7 +10707,6 @@ feacbooke.com
 feacebook.com
 feanonlinear.com
 featurecam.com
-featuregates.org
 fecbbok.com
 fecbooc.com
 fecbook.com
@@ -12022,14 +12008,12 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
-gemini.google.com
 gen.lib.rus.ec
 gen2.ac.uk
 gencraft.com
 gendai.net
 generated.photos
 generationpup.ac.uk
-generativelanguage.googleapis.com
 genesis.ac.uk
 genesys.ac.uk
 genet.ac.uk
@@ -12916,7 +12900,6 @@ gravitytank.com
 gray.ac.uk
 graylab.ac.uk
 grazie.ai
-grazie.aws.intellij.net
 grcb.ac.uk
 gre.ac.uk
 greasespot.net
@@ -18047,7 +18030,6 @@ makeeu.com
 makeitopen.com
 makeitrealcontest.com
 makemymood.com
-makersuite.google.com
 makesenseofdata.com
 makingassessmentcount.ac.uk
 makingstartshere.com
@@ -21108,7 +21090,6 @@ northumbria.ac.uk
 norwichresearchpark.ac.uk
 nos.nl
 note.com
-notebooklm.google.com
 notepad-plus-plus.org
 notion-static.com
 notion.com
@@ -21831,7 +21812,6 @@ open.com.hk
 open.firstory.me
 open.spotify.com
 openai.com
-openaiapi-site.azureedge.net
 openallweb.com
 openamt.com
 openapi-quote.longbridge.cn
